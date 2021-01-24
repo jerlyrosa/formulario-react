@@ -25,10 +25,11 @@ function App() {
        <div class="col-md-12">
                <input type="password" class=" color form-control" placeholder="Password"/>
         </div>
-        <div class="col-md-12">
+        <div class="col-md-12">  
             <input type="password" class=" color form-control" placeholder="Confirm password"/>
          </div>
          <div class="form-check">
+           
            <input class="form-check-input" type="checkbox" />
            <label class="form-check-label">Terminos. condiciones y todo lo demas. </label>
          </div>
